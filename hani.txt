@@ -1,9 +1,2 @@
 hani is here
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-hani is added for second time
->>>>>>> 021fa5a067f6c54b0cf2df4a0bb382d3cfb347cf
-=======
-hani is added for second time
->>>>>>> 9992cd1d8da0b8c3ecef478bc79f6fca37b945bc
+
